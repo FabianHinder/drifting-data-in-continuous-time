@@ -23,4 +23,4 @@ This repository contains the implementation of the methods proposed in the paper
 
 ## How to cite
 
-You can cite the version on [arXiv](TODO).
+You can cite the version on [arXiv](https://arxiv.org/abs/1912.01969).
